@@ -64,7 +64,7 @@ Sigue las opciones en pantalla.
 
 **Edita *"conf.cfg"* para cambiar:**
 ```bash
-ENV_NAME="venv"               *Nombre del entorno virtual*```
+ENV_NAME="venv"               *Nombre del entorno virtual*
 ```
 ```bash
 EDITOR="code"                 *Editor para abrir proyectos / config*
