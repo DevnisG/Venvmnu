@@ -63,13 +63,13 @@ Sigue las opciones en pantalla.
 ## 🛠️ Configuración:
 
 **Edita *"conf.cfg"* para cambiar:**
---------------------------------------------------------------------
-ENV_NAME="venv"              = *Nombre del entorno virtual*
-EDITOR="code"                = *Editor para abrir proyectos / config*
-DEFAULT_SCRIPT="main.py"     = *Script por defecto al ejecutar*
-PROJECT_DIR="/ruta/proyecto" = *Ruta inicial*
-LANG="es"                    = *Idioma: 'es' o 'en'*
---------------------------------------------------------------------
+
+ENV_NAME="venv"               *Nombre del entorno virtual*
+EDITOR="code"                 *Editor para abrir proyectos / config*
+DEFAULT_SCRIPT="main.py"      *Script por defecto al ejecutar*
+PROJECT_DIR="/ruta/proyecto"  *Ruta inicial*
+LANG="es"                     *Idioma: 'es' o 'en'*
+
 
 ## 🫂 Contribuciones:
 
