@@ -63,13 +63,21 @@ Sigue las opciones en pantalla.
 ## 🛠️ Configuración:
 
 **Edita *"conf.cfg"* para cambiar:**
-
-ENV_NAME="venv"               *Nombre del entorno virtual*
+```bash
+ENV_NAME="venv"               *Nombre del entorno virtual*```
+```
+```bash
 EDITOR="code"                 *Editor para abrir proyectos / config*
+```
+```bash
 DEFAULT_SCRIPT="main.py"      *Script por defecto al ejecutar*
+```
+```bash
 PROJECT_DIR="/ruta/proyecto"  *Ruta inicial*
+```
+```bash
 LANG="es"                     *Idioma: 'es' o 'en'*
-
+```
 
 ## 🫂 Contribuciones:
 
